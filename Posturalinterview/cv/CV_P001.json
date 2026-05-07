@@ -1,0 +1,75 @@
+{
+  "participantId": "P001",
+  "personalInfo": {
+    "name": "Augusto",
+    "surname": "Persico",
+    "age": 22
+  },
+  "education": [
+    {
+      "degree": "Laurea Triennale",
+      "field": "Informatica",
+      "institution": "Unisa",
+      "year": 2025
+    },
+    {
+      "degree": "Laurea Triennale",
+      "field": "Informatica",
+      "institution": "Università di Bologna",
+      "year": 2017
+    }
+  ],
+  "workExperience": [
+    {
+      "role": "Software Developer",
+      "company": "Tech Solutions S.r.l.",
+      "duration": "6 mesi",
+      "description": "Sviluppo applicazioni web con React e Node.js"
+    },
+    {
+      "role": "Stage Developer",
+      "company": "StartupLab",
+      "duration": "6 mesi",
+      "description": "Sviluppo backend con Python e Django"
+    }
+  ],
+  "skills": {
+    "technical": [
+      "Python",
+      "JavaScript",
+      "React",
+      "Node.js",
+      "Django",
+      "SQL",
+      "Git",
+      "Docker"
+    ],
+    "languages": [
+      {
+        "name": "Italiano",
+        "level": "Madrelingua"
+      },
+      {
+        "name": "Inglese",
+        "level": "B2"
+      }
+    ],
+    "soft": [
+      "Problem solving",
+      "Lavoro di gruppo",
+      "Gestione del tempo"
+    ]
+  },
+  "projects": [
+    {
+      "name": "Sistema di gestione libreria",
+      "description": "Applicazione full-stack per gestione prestiti bibliotecari",
+      "technologies": ["React", "Node.js", "MongoDB"]
+    },
+    {
+      "name": "Bot Telegram",
+      "description": "Bot per notifiche automatiche",
+      "technologies": ["Python", "Telegram API"]
+    }
+  ]
+}

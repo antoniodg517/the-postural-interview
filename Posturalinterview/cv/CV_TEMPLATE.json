@@ -1,0 +1,53 @@
+{
+  "participantId": "P000",
+  "personalInfo": {
+    "name": "Nome",
+    "surname": "Cognome",
+    "age": 25
+  },
+  "education": [
+    {
+      "degree": "Laurea Magistrale / Laurea Triennale / Diploma",
+      "field": "Campo di studio",
+      "institution": "Nome università/scuola",
+      "year": 2024
+    }
+  ],
+  "workExperience": [
+    {
+      "role": "Ruolo lavorativo",
+      "company": "Nome azienda",
+      "duration": "X anni / X mesi",
+      "description": "Breve descrizione delle mansioni"
+    }
+  ],
+  "skills": {
+    "technical": [
+      "Skill 1",
+      "Skill 2",
+      "Skill 3"
+    ],
+    "languages": [
+      {
+        "name": "Italiano",
+        "level": "Madrelingua"
+      },
+      {
+        "name": "Inglese",
+        "level": "A1 / A2 / B1 / B2 / C1 / C2"
+      }
+    ],
+    "soft": [
+      "Problem solving",
+      "Lavoro di gruppo",
+      "Comunicazione"
+    ]
+  },
+  "projects": [
+    {
+      "name": "Nome progetto",
+      "description": "Descrizione breve",
+      "technologies": ["Tech 1", "Tech 2"]
+    }
+  ]
+}

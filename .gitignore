@@ -1,0 +1,24 @@
+# IntelliJ
+.idea/
+*.iml
+
+# Gradle
+.gradle/
+build/
+out/
+
+# Environment
+.env
+.env.local
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# VSCode
+.vscode/
+
+# Secrets
+openai.properties
