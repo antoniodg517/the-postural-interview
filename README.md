@@ -1,5 +1,3 @@
-# GitHub Setup – The Postural Interview
-
 ## README.md – Advanced Research-Oriented Version
 
 ````markdown
