@@ -1,7 +1,6 @@
-## README.md – Advanced Research-Oriented Version
-
 ````markdown
 # The Postural Interview
+Bachelor's Thesis Project – University of Salerno (2025/2026)
 
 AI-powered Human-Robot Interaction system for controlled stress induction and electromyographic postural analysis.
 
@@ -172,17 +171,16 @@ The physiological analysis module processes surface electromyography signals acq
 ```text
 the-postural-interview/
 │
-├── src/
-├── assets/
-├── config/
-├── docs/
-│   ├── EMG_ANALYSIS_GUIDE.md
-│   ├── GPT_INTEGRATION.md
-│   └── PROTOCOL_README.md
+├── Posturalinterview/
+│   ├── src/
+│   ├── assets/
+│   ├── config/
+│   ├── build.gradle
+│   └── ...
 │
-├── cv/
-├── screenshots/
-└── README.md
+├── docs/
+├── README.md
+└── .gitignore
 ```
 
 ---
@@ -229,5 +227,3 @@ Antonio Del Giudice
 
 B.Sc. in Computer Science University of Salerno
 
-```
-```
